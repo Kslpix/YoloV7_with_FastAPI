@@ -1,0 +1,17 @@
+fastapi==0.94.1
+matplotlib==3.7.1
+numpy==1.24.1
+onnx==1.13.0
+onnx_simplifier==0.4.15
+onnxruntime==1.14.1
+onnxsim==0.4.17
+opencv_python==4.7.0.72
+Pillow==9.4.0
+pycocotools==2.0.6
+scipy==1.10.0
+starlette==0.26.1
+thop==0.1.1.post2209072238
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.65.0
+uvicorn==0.21.1
